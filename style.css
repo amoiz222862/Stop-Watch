@@ -1,0 +1,46 @@
+
+body{
+    background-image: url(./images/Untitled\ design\ \(3\).png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    /* display:flex;
+    flex-direction: column; */
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+.num {
+    color: #fff;
+    font-size: x-large;
+    font-weight:bolder;
+
+}
+
+.bn{
+    background-color: #2e2e2e;
+    color: #fff;
+    margin: 10px;
+    font-size:x-large;
+    font-family:cursive;
+    border:black solid; 
+    cursor: pointer
+}
+.number{
+    display:inline-block;
+}
+.ul {
+    color: #fff;
+    font-size: large;
+    font-weight: bold;
+}
+.li {
+    color:#fff;
+    font-size: large;
+}
+
+.intro {
+    color : #fff;
+
+}
